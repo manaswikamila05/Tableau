@@ -12,12 +12,19 @@ Your task is to **recommend a data-driven strategy for increasing Maven Airlines
 
 More information about Maven Airlines Challenge [here](https://www.mavenanalytics.io/blog/maven-airlines-challenge)
 
-# :bookmark: Key findings
+# :bookmark: Recommendations
+- Significant growth in satisafction rate would be observed if efforts are made to improve travel experience of 20-40 age group travellers, economy class travellers, short haul flight travellers, returning and first-time passengers, and business and personal purpose travellers.
+- Prioritise improvements in in-flight Wi-Fi, gate location and ease of online booking services to boost satisafction rate.
+- Improve in-flight Wi-Fi service by installing Satellite based WiFi systems,  providing faster internet speed and reducing prices.
+- Improve the ease of online booking for secondary customers by upgrading the system with user-friendly UI in the website and on the mobile app.
+- Improve the gate location service at the airport by installing signs ans screens.
+- Prioritise improvements in in-flight services - Entertainment and Food and drink services for secondary customers.
+
 
 
 # :bar_chart: Visualization
 Produced a 1-pager dashboard using Tableau.
 
-Tableau: [Airline Passenger Satisfaction Report]()
+Tableau: [Airline Passenger Satisfaction Report](https://public.tableau.com/app/profile/manaswi.kamila/viz/Airlinepassengersatisfactionreport/Satisfactionsurvey)
 
-![Airline Passenger Satisfaction Report]()
+![Airline Passenger Satisfaction Report](https://github.com/manaswikamila05/Tableau/blob/main/Airlinepassengersatisfactionreport.png)
