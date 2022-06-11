@@ -27,4 +27,4 @@ Produced a 1-pager dashboard using Tableau.
 
 Tableau: [Airline Passenger Satisfaction Report](https://public.tableau.com/app/profile/manaswi.kamila/viz/Airlinepassengersatisfactionreport/Satisfactionsurvey)
 
-![Airline Passenger Satisfaction Report](https://github.com/manaswikamila05/Tableau/blob/main/Airlinepassengersatisfactionreport.png)
+![Airline Passenger Satisfaction Report](https://github.com/manaswikamila05/Tableau/blob/main/Maven%20Airlines%20Challenge/Airlinepassengersatisfactionreport.png)
